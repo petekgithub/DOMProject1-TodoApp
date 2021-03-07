@@ -1,0 +1,9 @@
+body {
+    background-color: hsl(89, 43%, 51%);
+  }
+
+#taskTitle {
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
